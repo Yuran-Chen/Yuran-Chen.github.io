@@ -6,9 +6,9 @@ hhhhhhhhhhhhhhhhhhhhhhh,This is my email address:yuranchen06@gmail.com
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   17 hrs 22 mins  █████████████████████████   99.94 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
-CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Eat          xxhrs xxx mins  █████████████████████████   99.94 %
+Sleep        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
@@ -19,9 +19,9 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 🚧 **my todoist stats:**
 <!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
+🏆  wooooooooooooow           
+🌸  !!!!!          
+✅  yeahhhhhhhhhhhhhhhhhhhhh           
 ⏳  Longest streak is 10 days
 <!-- TODO-IST:END -->
 
