@@ -8,6 +8,7 @@ desktop.ini
 .idea/
 *.swp
 *~
+~$*
 
 # Optional: keep checklist local only (uncomment if you don't want to push)
 # 清单.txt
